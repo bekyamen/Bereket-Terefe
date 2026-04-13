@@ -1,0 +1,23 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Node / Angular
+node_modules/
+dist/
+
+# Java / Maven
+target/
+*.class
+
+# Environment / local overrides
+.env
+.env.*
+
+# Temp files
+.tmp/
